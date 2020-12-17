@@ -1,0 +1,14 @@
+header{
+    padding: 10px 1px;
+}
+
+boody {
+    background-color: teal lighten-2;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
